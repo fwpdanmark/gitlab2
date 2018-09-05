@@ -1,0 +1,7 @@
+C:\Users\Wulff\Google Drive\Programmering\source\gitlab2\gitlab2\ConsoleApp1Test\bin\Debug\ConsoleApp1Test.exe.config
+C:\Users\Wulff\Google Drive\Programmering\source\gitlab2\gitlab2\ConsoleApp1Test\bin\Debug\ConsoleApp1Test.exe
+C:\Users\Wulff\Google Drive\Programmering\source\gitlab2\gitlab2\ConsoleApp1Test\bin\Debug\ConsoleApp1Test.pdb
+C:\Users\Wulff\Google Drive\Programmering\source\gitlab2\gitlab2\ConsoleApp1Test\obj\Debug\ConsoleApp1Test.csprojAssemblyReference.cache
+C:\Users\Wulff\Google Drive\Programmering\source\gitlab2\gitlab2\ConsoleApp1Test\obj\Debug\ConsoleApp1Test.csproj.CoreCompileInputs.cache
+C:\Users\Wulff\Google Drive\Programmering\source\gitlab2\gitlab2\ConsoleApp1Test\obj\Debug\ConsoleApp1Test.exe
+C:\Users\Wulff\Google Drive\Programmering\source\gitlab2\gitlab2\ConsoleApp1Test\obj\Debug\ConsoleApp1Test.pdb
